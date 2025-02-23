@@ -1,0 +1,5 @@
+# config.py.example
+# Copy this file to config.py and replace the placeholder with your actual token
+
+# Your Discord bot token goes here
+DISCORD_TOKEN = "YOUR_DISCORD_BOT_TOKEN"
